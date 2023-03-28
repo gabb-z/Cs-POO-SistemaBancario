@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.exe
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\bin\Debug\netcoreapp3.1\SistemaBancario.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.dll
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.pdb
+C:\Users\Gabriel\Documents\Curso C#\Exercícios Propostos - POO\SistemaBancario\SistemaBancario\obj\Debug\netcoreapp3.1\SistemaBancario.genruntimeconfig.cache
